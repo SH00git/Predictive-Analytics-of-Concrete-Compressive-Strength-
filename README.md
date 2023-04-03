@@ -13,14 +13,14 @@ Input:
 - $cs MPa $  Concrete compressive strength in MPa
 
 MODELS USED:
-Linear Regression
-Lasso regression 
-Ridge Regression
-RandoM Forest
-Decision trees Regressor
-Gradient Boosting Regressor
-KNN regressor
-XG Boost regressor
+- Linear Regression
+- Lasso regression 
+- Ridge Regression
+-RandoM Forest
+- Decision trees Regressor
+- Gradient Boosting Regressor
+- KNN regressor
+- XG Boost regressor
 
 #Hyper Parameter Tuning is performed for XGBoost, RandoMForest Regressor, and GradientBoosting Regressor. As, they give higher accuracy score in basic model.
 
